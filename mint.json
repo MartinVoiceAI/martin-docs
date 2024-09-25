@@ -1,91 +1,70 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Martin",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/dark_light_martin.svg",
+    "light": "/logo/dark_light_martin.svg"
   },
   "favicon": "/martin_logo.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#FFA52C",
+    "light": "#FFA52C",
+    "dark": "#FFA52C",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#FFF29F",
+      "to": "#FFA52C"
     }
+  },
+  "font": {
+    "family": "Inter"
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:dawson@trymartin.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Get the app",
+    "url": "https://trymartin.com/pricing"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Interfaces",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "interfaces/phone",
+        "interfaces/sms",
+        "interfaces/whatsapp",
+        "interfaces/email",
+        "interfaces/slack"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Capabilities",
       "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "capabilities/calendar",
+        "capabilities/inbox",
+        "capabilities/slack",
+        "capabilities/contacts",
+        "capabilities/search",
+        "capabilities/reminders",
+        "capabilities/todos",
+        "capabilities/briefings",
+        "capabilities/meetings"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/martinvoiceai",
+    "discord": "https://discord.gg/a7uQjrhCJR",
+    "linkedin": "https://www.linkedin.com/company/martin-voiceai/",
+    "youtube": "https://www.youtube.com/@Martin-Voice-AI",
+    "instagram": "https://www.instagram.com/martinvoiceai/"
   }
 }
