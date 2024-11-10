@@ -25,8 +25,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Start your trial",
-    "url": "https://trymartin.com/pricing"
+    "name": "Use Martin",
+    "url": "https://app.trymartin.com/"
   },
   "navigation": [
     {
@@ -55,8 +55,7 @@
         "capabilities/search",
         "capabilities/reminders",
         "capabilities/todos",
-        "capabilities/briefings",
-        "capabilities/meetings"
+        "capabilities/briefings"
       ]
     }
   ],
