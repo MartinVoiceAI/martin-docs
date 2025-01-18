@@ -22,6 +22,10 @@
     {
       "name": "Support",
       "url": "mailto:dawson@trymartin.com"
+    },
+    {
+      "name": "Blog",
+      "url": "https://trymartin.com/blog"
     }
   ],
   "topbarCtaButton": {
