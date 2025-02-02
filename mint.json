@@ -7,12 +7,12 @@
   },
   "favicon": "/martin_logo.svg",
   "colors": {
-    "primary": "#FFA52C",
-    "light": "#FFA52C",
-    "dark": "#FFA52C",
+    "primary": "#F79411",
+    "light": "#F79411",
+    "dark": "#F79411",
     "anchors": {
       "from": "#FFF29F",
-      "to": "#FFA52C"
+      "to": "#F79411"
     }
   },
   "font": {
