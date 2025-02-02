@@ -20,12 +20,12 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:dawson@trymartin.com"
-    },
-    {
       "name": "Blog",
       "url": "https://trymartin.com/blog"
+    },
+    {
+      "name": "Get a Demo",
+      "url": "https://calendly.com/dawson-tdq/userfeedback"
     }
   ],
   "topbarCtaButton": {
