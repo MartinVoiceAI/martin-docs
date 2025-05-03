@@ -24,8 +24,8 @@
       "url": "https://trymartin.com/blog"
     },
     {
-      "name": "Book a Demo",
-      "url": "https://calendly.com/dawson-tdq/userfeedback"
+      "name": "Community",
+      "url": "https://discord.gg/a7uQjrhCJR"
     }
   ],
   "topbarCtaButton": {
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "group": "Interfaces",
+      "group": "Ways to Reach Martin",
       "pages": [
         "interfaces/phone",
         "interfaces/sms",
@@ -50,17 +50,23 @@
       ]
     },
     {
-      "group": "Capabilities",
+      "group": "Integrations",
       "pages": [
-        "capabilities/calendar",
-        "capabilities/inbox",
-        "capabilities/slack",
-        "capabilities/contacts",
-        "capabilities/search",
+        "integrations/calendar",
+        "integrations/inbox",
+        "integrations/contacts",
+        "integrations/slack"
+      ]
+    },
+    {
+      "group": "Tools",
+      "pages": [
         "capabilities/reminders",
         "capabilities/lists",
+        "capabilities/notes",
         "capabilities/briefings",
-        "capabilities/shortcuts"
+        "capabilities/shortcuts",
+        "capabilities/search"
       ]
     }
   ],
