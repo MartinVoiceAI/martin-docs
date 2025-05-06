@@ -62,7 +62,7 @@
       "group": "Tools",
       "pages": [
         "capabilities/reminders",
-        "capabilities/lists",
+        "capabilities/todos",
         "capabilities/notes",
         "capabilities/briefings",
         "capabilities/shortcuts",
