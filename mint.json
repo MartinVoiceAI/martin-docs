@@ -20,8 +20,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Blog",
-      "url": "https://trymartin.com/blog"
+      "name": "Roadmap",
+      "url": "https://martinai.canny.io/"
     },
     {
       "name": "Community",
@@ -64,10 +64,18 @@
         "capabilities/reminders",
         "capabilities/todos",
         "capabilities/notes",
-        "capabilities/briefings",
         "capabilities/shortcuts",
-        "capabilities/search",
-        "capabilities/roadmap"
+        "capabilities/search"
+      ]
+    },
+    {
+      "group": "Background Tasks",
+      "pages": [
+        "background-tasks/briefings",
+        "background-tasks/proactive-drafts",
+        "background-tasks/email-triage",
+        "background-tasks/wake-up-calls",
+        "background-tasks/cc-to-schedule"
       ]
     }
   ],
